@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Raphael Chookagian",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Full-stack JavaScript Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/cesarderio",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/raphaelchookagian/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
