@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Raphael Chookagian. I am a student in the JavaScript full-stack web developer bootcamp program at Code Fellows.I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Raphael Chookagian. I am a student in the JavaScript full-stack web developer bootcamp program at Code Fellows.I'm working with HTML, CSS, JavaScript and React. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -21,16 +21,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "css3",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -81,37 +81,46 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full-stack JavaScript Developer",
+        "years": "9.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Nordstrom",
+        "title": "Photographer",
+        "years": "10.2012 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Photographer"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "CaptureOne",
+          "Profoto",
+          "Canon",
+          "SAM"
+        ]
+      },
+      {
+        "company": "U.S. Army",
+        "title": "Sergeant",
+        "years": "6.2003 - 12.2011",
+        "mainTech": [
+          "11B"
+        ],
+        "technologies": [
+          "Teamwork",
+          "Efficiency",
+          "Leadership",
+          "Motivation"
         ]
       }
     ]
