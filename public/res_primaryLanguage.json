@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Rock-Paper_Poke",
+        "startDate": "2022",
+        "description": "This was the final group project from the 201 course. We planned, designed and created the site with paired and mob programming. We used HTML, CSS and JavaScript to create our own take on the good old rock-paper-scissors game.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/p1.png",
+          "images/portfolio/animal-shelter/p2.png"
         ],
         "url": "",
         "technologies": [
@@ -25,7 +25,7 @@
             "name": "HTML"
           },
           {
-            "class": "css3",
+            "class": "devicon-css3-plain",
             "name": "CSS"
           },
           {
