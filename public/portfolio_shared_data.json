@@ -34,6 +34,16 @@
           "level": "70"
         },
         {
+          "name": "Github",
+          "class": "devicon-github-plain",
+          "level": "65"
+        },
+        {
+          "name": "Nodejs",
+          "class": "devicon-nodejs-plain",
+          "level": "65"
+        },
+        {
           "name": "Sass",
           "class": "devicon-sass-original",
           "level": "75"
@@ -46,6 +56,11 @@
         {
           "name": "React",
           "class": "devicon-react-plain",
+          "level": "65"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
           "level": "65"
         }
       ]
